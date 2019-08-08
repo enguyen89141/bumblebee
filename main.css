@@ -1,0 +1,18 @@
+.nav {
+    text-align: center;
+}
+
+.logo {
+    width: 400px; 
+    height: 400px;
+}
+
+.nameLineOne {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 50px;
+}
+
+.nameLineTwo {
+    font-family: 'Farsan', cursive;
+    font-size: 60px;
+}
